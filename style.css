@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* This is our stylesheet, which is usually named something like "style.css" or "styles.css". We
+haven't covered this yet, but feel free to adjust the above attributes and hit "run" to play 
+around in a safe sandbox and learn more about CSS before we move on to the actual module on 
+this. That's part of the joy of a repl environment - you can break it, unbreak it, play with 
+it, and never worry you've destroyed anything vital. Have fun! Also, if you're wondering why this area is grey and has these weird marks around it, check out the script.js for more info on "commentary"! */
