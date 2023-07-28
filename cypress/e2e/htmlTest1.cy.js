@@ -1,6 +1,6 @@
 describe('My First HTML Project page', () => {
   beforeEach(() => {
-    cy.visit('/index.html');
+    cy.visit('/Unit3Solution.html');
   });
 
   it('has the correct title', () => {
