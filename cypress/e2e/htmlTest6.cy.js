@@ -5,7 +5,7 @@ describe('My First HTML Project page - Link', () => {
 
   it('has a link to Savvy Coders on Replit', () => {
     cy.get('a')
-      .should('have.attr', 'href', 'https://replit.com/@savvy-coders')
-      .and('have.text', "Savvy Coders on Replit, where I'm learning to code!");
+      .should('have.attr', 'href', 'https://github.com/savvy-coders')
+      .and('have.text', "Savvy Coders on GitHub, where I'm learning to code!");
   });
 });
