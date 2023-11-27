@@ -36,4 +36,4 @@ jobs:
         curl -X POST \
              -H "Content-Type: application/json" \
              -d @payload.json \
-             https://webhook.botpress.cloud/7675225e-133b-4413-9d4e-779b425c4952
+             https://webhook.botpress.cloud/a93d018d-71d5-45e9-8e01-caf7bc651b95
