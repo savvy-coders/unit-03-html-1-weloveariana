@@ -20,4 +20,4 @@ jobs:
         run: |
           curl -X POST -H "Content-Type: application/json" -d @${{ github.workspace }} "YOUR_WEBHOOK_URL"
         env:
-          YOUR_WEBHOOK_URL: ${{ secrets.YOUR_WEBHOOK_URL }}
+          YOUR_WEBHOOK_URL: ${{ secrets.WEBHOOK }}
