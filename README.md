@@ -8,7 +8,7 @@ If you're just now stumbling upon this directly through a search of repos on Git
 
 We have quite a bit of supporting material over in our new virtual classroom hosted on GitHub. You can check that out here:
 
-[GitHub Classroom Assignment](https://classroom.github.com/a/your-link-here)
+[GitHub Classroom Assignment](https://classroom.google.com/c/NTIzNjIwNzM0OTMy?cjc=f4trzvj)
 
 ## Getting Started with GitHub Classroom
 
